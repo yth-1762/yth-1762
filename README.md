@@ -9,6 +9,7 @@ Data Science, ML/DL, Tabular data 에 관심이 있습니다.
 
 - Name : 윤태호  
 - Email : 1128king@naver.com
+- Notion : https://www.notion.so/73e298cd9d5f4b74a3f5f15ca604e55e
 - Interests : Data Science, ML/DL
 - Education
   |학력|기관|전공|기간|비고|
