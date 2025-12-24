@@ -10,9 +10,9 @@
 - Name : 윤태호  
 - Email : 1128king@naver.com
 - Notion : https://www.notion.so/73e298cd9d5f4b74a3f5f15ca604e55e
-- Interests : Data Science, ML/DL
-- 
-- Education
+- Interests : 의료통계, 생존분석, Data Science, ML/DL
+ 
+- work
   |회사|부서|기간|
   |---|---|---|
   |분당서울대병원|빅데이터센터|2025.01.06~|
