@@ -2,7 +2,7 @@
 
 
 안녕하세요.  
-Data Science, ML/DL, Tabular data 에 관심이 있습니다. 
+의료통계, 생존분석, Data Science, ML/DL, Tabular data 에 관심이 있습니다. 
 관심이 많은 만큼 다양한 경진대회에 참가하여 배워보고 있습니다.
 
 
@@ -11,6 +11,12 @@ Data Science, ML/DL, Tabular data 에 관심이 있습니다.
 - Email : 1128king@naver.com
 - Notion : https://www.notion.so/73e298cd9d5f4b74a3f5f15ca604e55e
 - Interests : Data Science, ML/DL
+- 
+- Education
+  |회사|부서|기간|
+  |---|---|---|
+  |분당서울대병원|빅데이터센터|2025.01.06~|
+ 
 - Education
   |학력|기관|전공|기간|비고|
   |---|---|---|---|---|
